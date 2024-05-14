@@ -1,3 +1,4 @@
 # SistemaGestionHospital
 Taller U
-![image](https://github.com/CesarSTF/SistemaGestionHospital/assets/166522713/bd9dbbaf-0c4a-43e4-8cbe-11cad8c6e551)
+![image](https://github.com/CesarSTF/SistemaGestionHospital/assets/166522713/fce76957-cb14-41f5-a5be-910d15122c6d)
+
